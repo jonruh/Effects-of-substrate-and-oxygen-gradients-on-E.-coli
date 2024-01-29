@@ -14,14 +14,14 @@ Place the these files at the following paths in oreder to run the code.
 
 ## Requirements
 ### Python
-pandas==1.3.4
-numpy==1.24.2
-scipy==1.10.1
-matplotlib==3.7.2
-seaborn==0.12.2
-pymodulon==0.2.1
+- pandas==1.3.4
+- numpy==1.24.2
+- scipy==1.10.1
+- matplotlib==3.7.2
+- seaborn==0.12.2
+- pymodulon==0.2.1
 ### R libraries
-PCAtools
-dplyr
-EnhancedVolcano
-DESeq2
+- PCAtools
+- dplyr
+- EnhancedVolcano
+- DESeq2

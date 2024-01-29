@@ -1,0 +1,19 @@
+	LibraryLayout	Platform	Run	R1	R2	passed_fastqc	passed_reads_mapped_to_CDS	passed_global_correlation	project	condition	strain_ID	oscillation	sample_ID	experiment_run	strain_name	reference_condition		skip
+PD_131_R10_S1_1	PAIRED	DNBSEQ		PD_131_R10_S1_1.fq.gz	PD_131_R10_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_oscillation_feast	DDB35	S	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R10_S2_1	PAIRED	DNBSEQ		PD_131_R10_S2_1.fq.gz	PD_131_R10_S2_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_oscillation_famine	DDB35	S	S2	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R11_S1_1	PAIRED	DNBSEQ		PD_131_R11_S1_1.fq.gz	PD_131_R11_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_O_oscillation_limitation	DDB35	O	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R11_S2_1	PAIRED	DNBSEQ		PD_131_R11_S2_1.fq.gz	PD_131_R11_S2_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_O_oscillation_excess	DDB35	O	S2	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R12_S1_1	PAIRED	DNBSEQ		PD_131_R12_S1_1.fq.gz	PD_131_R12_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_O_oscillation_limitation	DDB35	O	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R12_S2_1	PAIRED	DNBSEQ		PD_131_R12_S2_1.fq.gz	PD_131_R12_S2_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_O_oscillation_excess	DDB35	O	S2	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R13_S1_1	PAIRED	DNBSEQ		PD_131_R13_S1_1.fq.gz	PD_131_R13_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_O_oscillation_limitation	DDB35	O	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R13_S2_1	PAIRED	DNBSEQ		PD_131_R13_S2_1.fq.gz	PD_131_R13_S2_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_O_oscillation_excess	DDB35	O	S2	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R14_S1_1	PAIRED	DNBSEQ		PD_131_R14_S1_1.fq.gz	PD_131_R14_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_O_oscillation_combined	DDB35	S+O	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R15_S1_1	PAIRED	DNBSEQ		PD_131_R15_S1_1.fq.gz	PD_131_R15_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_O_oscillation_combined	DDB35	S+O	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R16_S1_1	PAIRED	DNBSEQ		PD_131_R16_S1_1.fq.gz	PD_131_R16_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_O_oscillation_combined	DDB35	S+O	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R5_S1_1	PAIRED	DNBSEQ		PD_131_R5_S1_1.fq.gz	PD_131_R5_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_control	DDB35	none	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R6_S1_1	PAIRED	DNBSEQ		PD_131_R6_S1_1.fq.gz	PD_131_R6_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_control	DDB35	none	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R7_S1_1	PAIRED	DNBSEQ		PD_131_R7_S1_1.fq.gz	PD_131_R7_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_control	DDB35	none	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R8_S1_1	PAIRED	DNBSEQ		PD_131_R8_S1_1.fq.gz	PD_131_R8_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_oscillation_feast	DDB35	S	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R8_S2_1	PAIRED	DNBSEQ		PD_131_R8_S2_1.fq.gz	PD_131_R8_S2_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_oscillation_famine	DDB35	S	S2	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R9_S1_1	PAIRED	DNBSEQ		PD_131_R9_S1_1.fq.gz	PD_131_R9_S1_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_oscillation_feast	DDB35	S	S1	DDB_PD_131_AMBR	WT	WT_fed-batch_control		
+PD_131_R9_S2_1	PAIRED	DNBSEQ		PD_131_R9_S2_1.fq.gz	PD_131_R9_S2_2.fq.gz	TRUE	TRUE	TRUE	DDB_SD_2	WT_fed-batch_S_oscillation_famine	DDB35	S	S2	DDB_PD_131_AMBR	WT	WT_fed-batch_control		

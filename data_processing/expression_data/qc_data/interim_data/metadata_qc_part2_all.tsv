@@ -1,0 +1,19 @@
+	LibraryLayout	Platform	Run	R1	R2	passed_fastqc	passed_reads_mapped_to_CDS	passed_global_correlation	passed_curation	passed_replicate_correlations
+PD_131_R10_S1_1	PAIRED	DNBSEQ		PD_131_R10_S1_1.fq.gz	PD_131_R10_S1_2.fq.gz	True	True	True	True	True
+PD_131_R10_S2_1	PAIRED	DNBSEQ		PD_131_R10_S2_1.fq.gz	PD_131_R10_S2_2.fq.gz	True	True	True	True	True
+PD_131_R11_S1_1	PAIRED	DNBSEQ		PD_131_R11_S1_1.fq.gz	PD_131_R11_S1_2.fq.gz	True	True	True	True	True
+PD_131_R11_S2_1	PAIRED	DNBSEQ		PD_131_R11_S2_1.fq.gz	PD_131_R11_S2_2.fq.gz	True	True	True	True	True
+PD_131_R12_S1_1	PAIRED	DNBSEQ		PD_131_R12_S1_1.fq.gz	PD_131_R12_S1_2.fq.gz	True	True	True	True	True
+PD_131_R12_S2_1	PAIRED	DNBSEQ		PD_131_R12_S2_1.fq.gz	PD_131_R12_S2_2.fq.gz	True	True	True	True	True
+PD_131_R13_S1_1	PAIRED	DNBSEQ		PD_131_R13_S1_1.fq.gz	PD_131_R13_S1_2.fq.gz	True	True	True	True	True
+PD_131_R13_S2_1	PAIRED	DNBSEQ		PD_131_R13_S2_1.fq.gz	PD_131_R13_S2_2.fq.gz	True	True	True	True	True
+PD_131_R14_S1_1	PAIRED	DNBSEQ		PD_131_R14_S1_1.fq.gz	PD_131_R14_S1_2.fq.gz	True	True	True	True	True
+PD_131_R15_S1_1	PAIRED	DNBSEQ		PD_131_R15_S1_1.fq.gz	PD_131_R15_S1_2.fq.gz	True	True	True	True	True
+PD_131_R16_S1_1	PAIRED	DNBSEQ		PD_131_R16_S1_1.fq.gz	PD_131_R16_S1_2.fq.gz	True	True	True	True	True
+PD_131_R5_S1_1	PAIRED	DNBSEQ		PD_131_R5_S1_1.fq.gz	PD_131_R5_S1_2.fq.gz	True	True	True	True	True
+PD_131_R6_S1_1	PAIRED	DNBSEQ		PD_131_R6_S1_1.fq.gz	PD_131_R6_S1_2.fq.gz	True	True	True	True	True
+PD_131_R7_S1_1	PAIRED	DNBSEQ		PD_131_R7_S1_1.fq.gz	PD_131_R7_S1_2.fq.gz	True	True	True	True	True
+PD_131_R8_S1_1	PAIRED	DNBSEQ		PD_131_R8_S1_1.fq.gz	PD_131_R8_S1_2.fq.gz	True	True	True	True	True
+PD_131_R8_S2_1	PAIRED	DNBSEQ		PD_131_R8_S2_1.fq.gz	PD_131_R8_S2_2.fq.gz	True	True	True	True	True
+PD_131_R9_S1_1	PAIRED	DNBSEQ		PD_131_R9_S1_1.fq.gz	PD_131_R9_S1_2.fq.gz	True	True	True	True	True
+PD_131_R9_S2_1	PAIRED	DNBSEQ		PD_131_R9_S2_1.fq.gz	PD_131_R9_S2_2.fq.gz	True	True	True	True	True

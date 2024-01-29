@@ -3,6 +3,7 @@ __pycache__/
 *.svg
 *.png
 *.summary
+*.html
 trim_reports/
 rseqc/
 multiqc_data/

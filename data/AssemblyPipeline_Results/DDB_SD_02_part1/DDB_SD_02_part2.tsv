@@ -1,0 +1,24 @@
+Experiment	LibraryLayout	Platform	Run	R1	R2
+PD_131_R16_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R16_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R16_S1_2.fq.gz
+PD_131_R5_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R5_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R5_S1_2.fq.gz
+PD_131_R6_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R6_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R6_S1_2.fq.gz
+PD_131_R7_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R7_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R7_S1_2.fq.gz
+PD_131_R8_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R8_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R8_S1_2.fq.gz
+PD_131_R8_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R8_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R8_S2_2.fq.gz
+PD_131_R9_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R9_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R9_S1_2.fq.gz
+PD_131_R9_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R9_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_131_R9_S2_2.fq.gz
+PD_132_R10_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R10_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R10_S1_2.fq.gz
+PD_132_R10_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R10_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R10_S2_2.fq.gz
+PD_132_R11_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R11_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R11_S1_2.fq.gz
+PD_132_R11_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R11_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R11_S2_2.fq.gz
+PD_132_R12_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R12_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R12_S1_2.fq.gz
+PD_132_R12_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R12_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R12_S2_2.fq.gz
+PD_132_R13_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R13_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R13_S1_2.fq.gz
+PD_132_R13_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R13_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R13_S2_2.fq.gz
+PD_132_R5_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R5_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R5_S1_2.fq.gz
+PD_132_R6_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R6_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R6_S1_2.fq.gz
+PD_132_R7_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R7_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R7_S1_2.fq.gz
+PD_132_R8_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R8_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R8_S1_2.fq.gz
+PD_132_R8_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R8_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R8_S2_2.fq.gz
+PD_132_R9_S1_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R9_S1_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R9_S1_2.fq.gz
+PD_132_R9_S2_1	PAIRED	ILLUMINA		/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R9_S2_1.fq.gz	/home/suley/workfolder/Gluc_Ox_SD_Raw/PD_132_R9_S2_2.fq.gz

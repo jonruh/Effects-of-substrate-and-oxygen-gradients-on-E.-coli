@@ -10,3 +10,10 @@ multiqc_data/
 fastqc/
 bowtie/
 ~$*
+DDB_PD_131_AMBR_online_data_export.csv
+DDB_PD_131_AMBR_online_stacked_9s.csv
+oxygen_scale-down_online_data.xlsx
+ecoli_p1k.json
+ica_data.json
+ica_data_combined_with_p1k.json
+ica_data_self_centered.json

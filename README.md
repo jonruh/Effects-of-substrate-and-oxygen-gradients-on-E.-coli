@@ -2,7 +2,7 @@
 
 ## Additional files
 Large files are vaialble at https://doi.org/10.6084/m9.figshare.25105811.v1
-Place the these files at the following paths in oreder to run the code.
+Place the these files at the following paths in order to run the code.
 
 - data\fermentation_data_exports\DDB_PD_131_AMBR_online_data_export.csv
 - data\online_data_9s_interpolated\DDB_PD_131_AMBR_online_stacked_9s.csv

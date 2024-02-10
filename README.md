@@ -1,7 +1,7 @@
 # Effects-of-substrate-and-oxygen-gradients-on-E.-coli
 
 ## Additional files
-Large files are vaialble at https://doi.org/10.6084/m9.figshare.25105811.v1
+Large files are vaialble at https://doi.org/10.6084/m9.figshare.25105811.v2
 Place the these files at the following paths in order to run the code.
 
 - data\fermentation_data_exports\DDB_PD_131_AMBR_online_data_export.csv

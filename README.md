@@ -1,4 +1,5 @@
 # Effects-of-substrate-and-oxygen-gradients-on-E.-coli
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10642598.svg)](https://doi.org/10.5281/zenodo.10642598)
 
 ## Additional files
 Large files are vaialble at https://doi.org/10.6084/m9.figshare.25105811.v2
